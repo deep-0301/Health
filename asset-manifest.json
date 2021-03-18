@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HealthCard/static/css/main.1810129e.chunk.css",
+    "main.js": "/HealthCard/static/js/main.915c60d3.chunk.js",
+    "main.js.map": "/HealthCard/static/js/main.915c60d3.chunk.js.map",
+    "runtime-main.js": "/HealthCard/static/js/runtime-main.2be0b2d8.js",
+    "runtime-main.js.map": "/HealthCard/static/js/runtime-main.2be0b2d8.js.map",
+    "static/css/2.150d169a.chunk.css": "/HealthCard/static/css/2.150d169a.chunk.css",
+    "static/js/2.7601f3de.chunk.js": "/HealthCard/static/js/2.7601f3de.chunk.js",
+    "static/js/2.7601f3de.chunk.js.map": "/HealthCard/static/js/2.7601f3de.chunk.js.map",
+    "index.html": "/HealthCard/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/HealthCard/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.1810129e.chunk.css.map": "/HealthCard/static/css/main.1810129e.chunk.css.map",
+    "static/js/2.7601f3de.chunk.js.LICENSE.txt": "/HealthCard/static/js/2.7601f3de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2be0b2d8.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.7601f3de.chunk.js",
+    "static/css/main.1810129e.chunk.css",
+    "static/js/main.915c60d3.chunk.js"
+  ]
+}
