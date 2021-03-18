@@ -13,13 +13,13 @@ const App = () => {
       <Navbar />
       <div className='container'>
         <Switch>
-          <Route exact path='/' component={Home}></Route>
-          <Route exact path='/Home' component={Home}></Route>
-          <Route exact path='/Register' component={Register}></Route>
-          <Route exact path='/Login' component={Login}></Route>
-          <Route exact path='/Contact' component={Contact}></Route>
-          <Route exact path='/About' component={About}></Route>
-          <Redirect to="/"></Redirect>
+          <Route exact path='/HealthCard/' component={Home}></Route>
+          <Route exact path='/HealthCard/Home' component={Home}></Route>
+          <Route exact path='/HealthCard/Register' component={Register}></Route>
+          <Route exact path='/HealthCard/Login' component={Login}></Route>
+          <Route exact path='/HealthCard/Contact' component={Contact}></Route>
+          <Route exact path='/HealthCard/About' component={About}></Route>
+          <Redirect to="/HealthCard/"></Redirect>
         </Switch>
       </div>
     </>
